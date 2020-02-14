@@ -12,10 +12,10 @@ If you can toggle brightness from SamFix app, you can hide this app from launche
      height="80">](https://labs.xda-developers.com/store/app/com.dharmapoudel.samfix.addon)
 
 
-##IMPORTANT: 
+## IMPORTANT: 
 Seems like brightness doesn't work if I update the app to use the latest api version. So I've created an addon to install from dropbox (for now). This allows me to keep app clean and update more frequently. If you miss to install from dropbox, you'll have to pay for it to install from XDA. Your support is greatly appreciated and I'll continue to make effort on making the app better. If you have purchased the donate version, pm me with purchase token and I'll send the apk for free. 
 
-##Usage instruction: 
+## Usage instruction: 
 Install this app (disable google play protect if needed)
 Give required permission
 Hide from the launcher
