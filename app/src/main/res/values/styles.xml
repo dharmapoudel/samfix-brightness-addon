@@ -1,0 +1,41 @@
+<resources>
+    <attr name="listDivider" format="reference|color" />
+    <attr name="appBackground" format="reference|color" />
+    <attr name="primaryText" format="reference|color" />
+    <attr name="secondaryText" format="reference|color" />
+    <attr name="accentColor" format="reference|color" />
+    <attr name="bottomNavBg" format="reference|color" />
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="listDivider">@color/listDivider</item>
+        <item name="primaryText">@color/listDivider</item>
+        <item name="secondaryText">@color/listDivider</item>
+        <item name="accentColor">@color/listDivider</item>
+        <item name="bottomNavBg">@color/listDivider</item>
+
+        <item name="colorPrimary">@color/listDivider</item>
+        <item name="colorPrimaryDark">@color/listDivider</item>
+        <item name="android:navigationBarColor">@color/listDivider</item>
+        <item name="android:windowBackground">@color/listDivider</item>
+        <item name="android:textColorPrimary">@color/listDivider</item>
+        <item name="android:textColorSecondary">@color/listDivider</item>
+
+        <item name="colorAccent">@color/listDivider</item>
+    </style>
+
+    <style name="Theme" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorAccent">@color/primary</item>
+    </style>
+
+    <style name="Theme.Widget" />
+
+    <style name="Theme.Widget.RadioButton">
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:drawableStart">?android:listChoiceIndicatorSingle</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+
+</resources>

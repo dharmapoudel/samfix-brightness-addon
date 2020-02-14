@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Samfix Addon</string>
+
+    <string name="tips_title">Need Permission!</string>
+    <string name="tips_ok">OK</string>
+    <string name="tips_copy">COPY</string>
+    <string name="copy_done">Copy Success</string>
+    <string name="tips">Before use this Application, you need to use adb tools to grant permission, copy below command and exec it on a PC:\n\n%1$s</string>
+    <string name="filter_intent">com.dharmapoudel.samfix.addon.Brightness</string>
+    <string name="hide_launcher_icon">Hide this addon\'s icon from launcher</string>
+    <string name="toggle_brightness_description">Toggle max brightness</string>
+    <string name="hide_icon_description">This app is only meant to work with SamFix. If it works directly from SamFix you can hide this app from launcher.
+        If not you can also use the brightness toggle above.</string>
+    <string name="app_desc">Addon For SamFix app</string>
+</resources>
